@@ -1,0 +1,21 @@
+
+.button {
+    background: none;
+    border: none;
+    outline: none;
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+.button:hover {
+    opacity: 1;
+    transform: scale(1.1);
+}
+.activeIcon {
+    color: #ffc306;
+    font-size: 20px;
+}
+
+.defaultIcon {
+    font-size: 20px;
+}

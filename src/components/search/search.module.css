@@ -1,0 +1,32 @@
+
+
+.input {
+    background: none;
+    box-shadow: none;
+    border: none;
+    height: 40px;
+    padding-left: 15px;
+    outline: none;
+    width: 100%;
+}
+
+.container {
+    position: relative;
+    background-color: #F6F6FB;
+    border-radius: 5px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.icon {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 10px;
+    cursor: pointer;
+    opacity: 0.7;
+}
+
+.icon:hover{ 
+    opacity: 1;
+}

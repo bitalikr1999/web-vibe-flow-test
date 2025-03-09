@@ -1,0 +1,10 @@
+.switch-controll {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.switch-controll p {
+  margin-right: 10px;
+  margin-bottom: 0;
+}
